@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz 2</string>
+    <string name="d">D</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="score">Score:</string>
+    <string name="a">A</string>
+    <string name="your_score">Your score:</string>
+    <string name="highest_score">Highest score:</string>
+    <string name="try_again">Try again</string>
+</resources>
